@@ -3,8 +3,8 @@ import { CAMPUS_ID } from './config.js';
 import { showToast, updateDayStyles } from './ui.js';
 
 // Update info here
-const mentors = ["Alice", "Bob"];
-const slotsAvailable = 3;
+const mentors = ["Ethan", "Devon", "Ben", "Mika", "Jill", "Carlos"];
+const slotsAvailable = 2;
 const targetMonth = 4; // 0 indexing, so 4 = May, 5 = June etc
 const targetYear = 2025;
 
